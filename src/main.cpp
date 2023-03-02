@@ -82,7 +82,7 @@ void out(int lsize)
 againkey:
 	int x, notfound = 0;
 
-	int run = menu(1);
+	int run = menu(2);
 	if (run==0)
 	{
 		return;
